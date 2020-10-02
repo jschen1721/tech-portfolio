@@ -3,12 +3,14 @@ id: about
 title: About
 ---
 
+I'm Jade Chen, a Senior at William & Mary majoring in Computer Science and minoring in Finance. I plan on graduating in May 2021. 
+
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
 might include:
 
-1. Your current position
+1. Computer Science Consultant for William & Mary's Computer Science Department
 1. Organizations you're involved with
 1. Your personal and professional values
 1. Hobbies or fun facts
@@ -23,10 +25,5 @@ Grace Hopper Celebration Attendee
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
+- GHC 2020 Student Scholar
+- Tapia 2020 Scholar
